@@ -1,18 +1,18 @@
 # Wallpaper engine scripts
 
-Scripts for work with alot of textures
-//all textures files is numered
+Scripts for work with alot of textures <br />
+//all textures files is numered <br />
 
-HOW TO WORK:
+HOW TO WORK: <br />
 
-json generator:
-  START - name first file
-  END - name last file
-  ID - last id for queue files in scene.json
+json generator: <br />
+  START - name first file <br />
+  END - name last file <br />
+  ID - last id for queue files in scene.json <br />
  
-rename digitals:
-  start - first number
-  renamed all files in number (0, 1, 2, ... 6, 7)
+rename digitals: <br />
+  start - first number <br />
+  renamed all files in number (0, 1, 2, ... 6, 7) <br />
   
-to dxt1:
-  change "format" to DXT1 in tex-json
+to dxt1: <br />
+  change "format" to DXT1 in tex-json <br />
